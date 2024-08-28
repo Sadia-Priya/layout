@@ -1,0 +1,54 @@
+.header{
+	height: 100px;
+	background-color: red;
+}
+.container{
+overflow: hidden; 
+}
+.blog{
+	float: left;
+	width: 50%;
+	height: 150px;
+	background-color: blue;
+}
+.contact{
+	float: right;
+	width: 50%;
+	height: 150px;
+	background-color: green;
+}
+.item{
+	float: left;
+	height: 150px;
+	width: 33.33%;
+}
+.coral{
+	background-color: coral;
+}
+.black{
+	background-color: black;
+}
+.yellow{
+	background-color: yellow;
+}
+.item1{
+    float: left;
+	height: 150px;
+	width: 25%;	
+}
+.sg{
+	background-color: seagreen;
+}
+.teal{
+	background-color: teal;
+}
+.rb{
+	background-color: royalblue;
+}
+.or{
+	background-color: orange;
+}
+.footer{
+	height: 100px;
+	background-color: brown;
+}
